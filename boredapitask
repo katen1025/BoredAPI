@@ -1,0 +1,41 @@
+
+# Bored API Task 
+
+![image alt text](https://images.unsplash.com/photo-1457131760772-7017c6180f05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2053&q=80)
+
+
+1. First task
+
+| **Key** |   **Type**   |                 **Activity**                | **Participants** | **Price** |                  **Link**                  | **Accessibility** |
+|:-------:|:------------:|:-------------------------------------------:|:----------------:|:---------:|:------------------------------------------:|:-----------------:|
+| 3141417 | recreational |          Create a personal website          |         1        |    0.1    |                                            |        0.12       |
+| 7023703 |   busywork   |            Clean out your garage            |         1        |     0     |                                            |        0.1        |
+| 4565537 |   education  |              Learn calligraphy              |         1        |    0.1    |                                            |        0.1        |
+| 7556665 |   busywork   |            Organize your dresser            |         1        |     0     |                                            |         1         |
+| 6813070 |    social    |       Have a picnic with some friends       |         3        |    0.1    |                                            |        0.1        |
+| 3141417 | recreational |          Create a personal website          |         1        |    0.1    |                                            |        0.12       |
+| 8779876 |  relaxation  |            Start a daily journal            |         1        |     0     |                                            |         0         |
+| 1645485 | recreational |  Learn to write with your nondominant hand  |         1        |     0     |                                            |        0.02       |
+| 2565076 |  relaxation  | Look at pictures and videos of cute animals |         1        |     0     |                                            |         1         |
+| 6301585 | recreational |             Write a short story             |         1        |     0     |                                            |        0.1        |
+| 4522866 | recreational |       Learn how to use a french press       |         1        |    0.3    | https://en.wikipedia.org/wiki/French_press |        0.3        |
+| 5490351 | recreational |             isit a nearby museum            |         1        |    0.2    |                                            |        0.7        |
+| 1799120 |    cooking   |     Cook something together with someone    |         2        |    0.3    |                                            |        0.8        |
+| 9765530 |   education  |           Study a foreign language          |         1        |     0     |                                            |        0.1        |
+| 7023703 |   busywork   |            Clean out your garage            |         1        |     0     |                                            |        0.1        |
+
+
+
+
+
+2. Second Task
+
+Most Participants: Have a picnic with some friends (participants: 3)
+
+Duplicate Activities:  ['Create a personal website', 'Clean out your garage']
+
+Most characters in Activity: Look at pictures and videos of cute animals (characters: 43)
+
+
+
+
